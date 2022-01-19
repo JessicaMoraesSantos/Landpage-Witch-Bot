@@ -10,7 +10,7 @@
 ## 🚧 Em construção... 🚧
 
 
-<img src="./assets/banner-readme.jpg">
+<img src="assets/banner-readme.jpg">
 
 #
 ### Feito com ❤️ por Jessica Moraes 👋 Entre em contato!
