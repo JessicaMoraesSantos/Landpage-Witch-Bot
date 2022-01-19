@@ -10,11 +10,9 @@
 ## 🚧 Em construção... 🚧
 
 
-![](assets/banner-readme.png)
+<img src="./assets/banner-readme.jpg">
 
 #
-<img style="border-radius: 50%;" src="./assets/perfil.jpeg" width="80px" height="100px">
-    
 ### Feito com ❤️ por Jessica Moraes 👋 Entre em contato!
 [![Linkedin Badge](https://img.shields.io/badge/-Jessica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JessicaMoraesSantos/)](https://www.linkedin.com/in/JessicaMoraesSantos/) 
 [![Gmail Badge](https://img.shields.io/badge/-jessicamoraes.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicamoraes.dev@gmail.com)](mailto:jessicamoraes.dev@gmail.com)
